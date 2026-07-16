@@ -1,6 +1,6 @@
 ### 👋 I'm Ertval (Erti)
 
-**AI Engineer (LLM Babysitter → Factory Manager) · Agentic Orchestration · Backend Systems**
+**AI Engineer (LLM Babysitter → Factory Manager) · Agentic Orchestration · Backend and Platform Engineering**
 
 Athens, Greece · [LinkedIn](https://linkedin.com/in/ertval) · [Portfolio](https://ertval.github.io)
 
@@ -16,7 +16,7 @@ where AI scales syntax and humans retain strict ownership of orchestration, inte
 **🏆** 1st Place — Panathenea AI Hackathon 2026
 
 #### Core Stack
-Go · TypeScript · Python · PostgreSQL · Docker · FastAPI · Pydantic · LangGraph
+Go · TypeScript · Python · SQLite · Docker · FastAPI · Pydantic · LangGraph
 
 #### Currently Exploring
 Agentic Orchestration · Safe AI Deployment · Omnigent · Durable Execution (Inngest)
